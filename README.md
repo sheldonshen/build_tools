@@ -10,6 +10,6 @@
 - http://maven.apache.org/plugins/maven-install-plugin/install-file-mojo.html
 - mvn archetype:generate //创建新项目
 - mvn archetype:generate -DgroupId=com.feidee -DartifactId=hellomaven -DarchetypeArtifactId=maven-archetype-quickstart -Dinteractive=false
-
+- http://maven.apache.org/archetype/maven-archetype-plugin/generate-mojo.html
 #gradle常用命令收集
 
