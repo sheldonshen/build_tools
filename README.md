@@ -12,6 +12,7 @@
 - mvn archetype:crawl //它会在 {current_user_home}\.m2\repository目录下生成一个archetype-catalog.xml文件
 - mvn idea:idea //将maven项目转成idea可导入项目
 - mvn eclipse:eclipse //将maven项目转成eclipse可导入项目
+- mvn eclipse:myeclipse //将maven项目转成myeclipse项目
 
 #gradle常用命令收集
 
