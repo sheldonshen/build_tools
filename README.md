@@ -16,3 +16,16 @@
 
 #gradle常用命令收集
 
+
+#maven中的常见术语
+- groupId
+- artifactId
+- version
+- goal
+- phase
+- archetype
+- archetype catalog
+- plugin
+- repo(local,remote,internal)
+
+
