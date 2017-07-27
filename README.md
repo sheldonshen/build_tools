@@ -29,5 +29,5 @@
 - archetype catalog
 - plugin
 - repo(local,remote,internal)
-
-
+- build lifecycle
+https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
