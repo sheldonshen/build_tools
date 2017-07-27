@@ -20,6 +20,7 @@
 
 
 #maven中的常见术语
+https://maven.apache.org/glossary.html
 - groupId
 - artifactId
 - version
@@ -29,5 +30,10 @@
 - archetype catalog
 - plugin
 - repo(local,remote,internal)
-- build lifecycle
-https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+- build lifecycle https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+- wagon
+- site
+- snippet macro https://maven.apache.org/guides/mini/guide-snippet-macro.html
+- plugin prefix
+- mojo
+- dependency
