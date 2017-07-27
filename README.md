@@ -13,6 +13,8 @@
 - mvn idea:idea //将maven项目转成idea可导入项目
 - mvn eclipse:eclipse //将maven项目转成eclipse可导入项目
 - mvn eclipse:myeclipse //将maven项目转成myeclipse项目
+- mvn integration-test
+- mvn clean verify deploy
 
 #gradle常用命令收集
 
