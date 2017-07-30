@@ -17,6 +17,9 @@
 - mvn clean verify deploy
 
 #gradle常用命令收集
+- gradle wrapper
+- gradle build
+- gradle jettyRun
 
 
 #maven中的常见术语
