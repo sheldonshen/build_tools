@@ -40,3 +40,25 @@ https://maven.apache.org/glossary.html
 - plugin prefix
 - mojo
 - dependency
+
+#gradle中的常见术语
+https://docs.gradle.org/current/userguide/go01.html
+- artifact
+- build script
+- configuration
+- configuration injection
+- DAG
+- dependency
+- dependency configuration
+- dependency resolution
+- dsl
+- external dependency
+- external object
+- init script
+- plugin
+- project
+- project dependency
+- repository
+- source set
+- task
+- transitive dependency
